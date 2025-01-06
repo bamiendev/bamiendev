@@ -48,12 +48,6 @@
 <br clear="both">
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=bamiendev&theme=transparent&hide_border=true&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=550"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=bamiendev&theme=light&hide_border=true&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=550"/>
-  <img alt="github-snake" src="https://streak-stats.demolab.com?user=bamiendev&theme=transparent&hide_border=true&border_radius=10&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=550"/>
-</picture>
-
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bamiendev/bamiendev@refs/heads/master/img/other/snake/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bamiendev/bamiendev@refs/heads/master/img/other/snake/github-snake.svg"/>
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/bamiendev/bamiendev@refs/heads/master/img/other/snake/github-snake.svg"/>
