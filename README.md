@@ -45,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/bamiendev/bamiendev@refs/heads/master/img/3d/marvelous.svg" height="45" alt="bamiendev marvelous logo" title="Marvelous Designer"/>
 </div>
 
-<br clear="both">
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bamiendev/bamiendev@refs/heads/master/img/other/snake/github-snake-dark.svg"/>
